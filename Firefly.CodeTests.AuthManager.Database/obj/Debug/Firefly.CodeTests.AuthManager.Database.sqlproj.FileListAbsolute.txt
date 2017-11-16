@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\FireflyCoding_1.2\FireflyCoding\Firefly.CodeTests.AuthManager\Firefly.CodeTests.AuthManager.Database\bin\Debug\AuthManager.dacpac
+C:\Users\User\Desktop\FireflyCoding_1.2\FireflyCoding\Firefly.CodeTests.AuthManager\Firefly.CodeTests.AuthManager.Database\bin\Debug\AuthManager.Database.dll
+C:\Users\User\Desktop\FireflyCoding_1.2\FireflyCoding\Firefly.CodeTests.AuthManager\Firefly.CodeTests.AuthManager.Database\bin\Debug\AuthManager.Database.pdb
+C:\Users\User\Desktop\FireflyCoding_1.2\FireflyCoding\Firefly.CodeTests.AuthManager\Firefly.CodeTests.AuthManager.Database\obj\Debug\AuthManager.Database.dll
+C:\Users\User\Desktop\FireflyCoding_1.2\FireflyCoding\Firefly.CodeTests.AuthManager\Firefly.CodeTests.AuthManager.Database\obj\Debug\AuthManager.Database.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\FireflyCoding_1.2\FireflyCoding\Firefly.CodeTests.AuthManager\Firefly.CodeTests.AuthManager.UnitTests\bin\Debug\Firefly.CodeTests.AuthManager.UnitTests.dll
+C:\Users\User\Desktop\FireflyCoding_1.2\FireflyCoding\Firefly.CodeTests.AuthManager\Firefly.CodeTests.AuthManager.UnitTests\bin\Debug\Firefly.CodeTests.AuthManager.UnitTests.pdb
+C:\Users\User\Desktop\FireflyCoding_1.2\FireflyCoding\Firefly.CodeTests.AuthManager\Firefly.CodeTests.AuthManager.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\FireflyCoding_1.2\FireflyCoding\Firefly.CodeTests.AuthManager\Firefly.CodeTests.AuthManager.UnitTests\obj\Debug\Firefly.CodeTests.AuthManager.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FireflyCoding_1.2\FireflyCoding\Firefly.CodeTests.AuthManager\Firefly.CodeTests.AuthManager.UnitTests\obj\Debug\Firefly.CodeTests.AuthManager.UnitTests.dll
+C:\Users\User\Desktop\FireflyCoding_1.2\FireflyCoding\Firefly.CodeTests.AuthManager\Firefly.CodeTests.AuthManager.UnitTests\obj\Debug\Firefly.CodeTests.AuthManager.UnitTests.pdb
+C:\Users\User\Desktop\FireflyCoding_1.2\FireflyCoding\Firefly.CodeTests.AuthManager\Firefly.CodeTests.AuthManager.UnitTests\bin\Debug\Firefly.CodeTests.AuthManager.dll
+C:\Users\User\Desktop\FireflyCoding_1.2\FireflyCoding\Firefly.CodeTests.AuthManager\Firefly.CodeTests.AuthManager.UnitTests\bin\Debug\Firefly.CodeTests.AuthManager.pdb
+C:\Users\User\Desktop\FireflyCoding_1.2\FireflyCoding\Firefly.CodeTests.AuthManager\Firefly.CodeTests.AuthManager.UnitTests\bin\Debug\Firefly.CodeTests.AuthManager.UnitTests.dll.config
